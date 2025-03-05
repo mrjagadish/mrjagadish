@@ -1,4 +1,4 @@
-
+![logo](https://github.com/mrjagadish/banner-/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Jagadish Panda</h1>
 <h3 align="center">Making Sense of the Data Universe</h3>
 
